@@ -1,0 +1,44 @@
+[
+  {
+    "id": "u1",
+    "at": "2026-09-19T04:10:10Z",
+    "kind": "ledger",
+    "title": "Live ledger refreshed from Drive",
+    "body": "Official PLAY 12-11 · +$7.02 · 3.05% ROI. Paper board synced from 03_Bets_Log.csv."
+  },
+  {
+    "id": "u2",
+    "at": "2026-09-18T03:44:15Z",
+    "kind": "settle",
+    "title": "Paper prop graded WIN",
+    "body": "Amon-Ra St. Brown Under 79.5 (v0.3.2-props) · +$8.77 · frozen paper/TNF hold NOT Official."
+  },
+  {
+    "id": "u3",
+    "at": "2026-09-18T03:43:15Z",
+    "kind": "settle",
+    "title": "DET@BUF totals settled",
+    "body": "Paper Under 53.5 LOSS. Independent U55 -$100 LOSS. Wet-story VOID already noted on model total."
+  },
+  {
+    "id": "u4",
+    "at": "2026-09-17T22:34:49Z",
+    "kind": "model",
+    "title": "Catchup paper board loaded",
+    "body": "NFL heat/weather watch slate: CLE ML, PHI@TEN Over, WAS ML, NYG ML, NYJ ML tagged not_bet."
+  },
+  {
+    "id": "u5",
+    "at": "2026-09-17T22:39:33Z",
+    "kind": "model",
+    "title": "v0.4.1-dry-ol weather hold",
+    "body": "DET@BUF wet-story VOID. Board total 53.5→54.5. Keep for CLV/settlement only — do not size new."
+  },
+  {
+    "id": "u6",
+    "at": "2026-09-15T05:51:53Z",
+    "kind": "model",
+    "title": "Coors reprice void",
+    "body": "SD@COL Under 11.5 voided after v0.3.7-sdcol P(under)~0.24 do-not-size."
+  }
+]

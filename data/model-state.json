@@ -1,0 +1,31 @@
+{
+  "name": "TrueLine",
+  "version": "v0.4.2-sp",
+  "previousVersions": [
+    "v0.4.1-dry-ol",
+    "v0.3.8-wasdal",
+    "v0.3.7-sdcol",
+    "v0.3.6-wx",
+    "v0.3.4-ms",
+    "v0.3.2-props"
+  ],
+  "updatedAt": "2026-09-19T04:10:10Z",
+  "status": "live",
+  "maturity": "TOO EARLY",
+  "edgeFloor": 0.03,
+  "notes": "Official vs Independent never mixed for ROI. MISSING probabilities stay blank — never backfilled.",
+  "official": {
+    "settledCount": 23,
+    "record": "12-11",
+    "riskedUsd": 230,
+    "pnlUsd": 7.02,
+    "rawRoiPct": 3.05
+  },
+  "paper": {
+    "rows": 15,
+    "open": 5,
+    "settledWL": 10,
+    "voids": 0,
+    "pnlUsd": 0.43
+  }
+}

@@ -1,0 +1,6 @@
+.runtime/
+.next/
+node_modules/
+data/trueline.sqlite
+data/trueline.sqlite-*
+tsconfig.tsbuildinfo
