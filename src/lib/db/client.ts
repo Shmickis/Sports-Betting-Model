@@ -5,7 +5,9 @@ import path from "path";
 import * as schema from "./schema";
 
 const DATA_DIR = path.join(process.cwd(), "data");
-const DB_PATH = path.join(DATA_DIR, "trueline.sqlite");
+const DB_PATH = process.env.VERCEL
+  ? path.join("/tmp", "trueline.sqlite")
+  : path.join(DATA_DIR, "trueline.sqlite");
 
 let _db: ReturnType<typeof drizzle<typeof schema>> | null = null;
 
